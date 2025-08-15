@@ -41,5 +41,3 @@
 </div>
 
 ###
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/daraii?theme=dark&font=Noto%20Sans%20Miao)
