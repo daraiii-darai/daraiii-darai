@@ -42,4 +42,4 @@
 
 ###
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=daraii)](https://github.com/madushadhanushka/github-readme)
+![LeetCode Stats](https://leetcard.jacoblin.cool/daraii?theme=dark&font=Noto%20Sans%20Miao)
