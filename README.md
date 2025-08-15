@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a data analyst focused on product analytics, using data visualization and A/B testing to uncover insights that help improve product performance<br><br>✉️ daraiiiw@mail.ru<br><br>Я продуктовый аналитик, специализирующийся на A/B тестировании и визуализации данных для получения ценных инсайтов и оптимизации продуктов</p>
+<p align="left">I'm a data analyst focused on product analytics, using data visualization and A/B testing to uncover insights that help improve product performance<br><br>✉️ daraiiiw@mail.ru<br></p>
 
 ###
 
@@ -41,3 +41,5 @@
 </div>
 
 ###
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=daraii)](https://github.com/madushadhanushka/github-readme)
