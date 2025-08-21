@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📊 Focused on product analytics  and A/B testing<br>🌍 Fluent in Russian and English<br>🎓 Yandex Practicum student; background in linguistics<br>📈 Working to improve dashboards and advanced statistics skills<br>📚 Enthusiastic about learning foreign languages for fun</p>
+<p align="left">📊 Focused on product analytics  and A/B testing<br>🌍 Fluent in Russian and English<br>🎓 Yandex Practicum; background in linguistics<br>📈 Working to improve dashboards and advanced statistics skills<br>📚 Enthusiastic about learning foreign languages for fun</p>
 
 ###
 
